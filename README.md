@@ -13,7 +13,7 @@ The date is currently in Year-Month-Day format but we plan to change that to you
 
 ## Installation
   1. Install python: https://www.python.org/downloads/
-  2. Install Pillow, pyproj, and GPSPhoto: (Add pip install ... here)
+  2. Install Pillow, pyproj, and GPSPhoto: (Add pip install ... here). For instructions on installing python packages, see https://packaging.python.org/en/latest/tutorials/installing-packages/.
 
 ## Nearly Complete Goals
   
