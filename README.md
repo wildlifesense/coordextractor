@@ -13,10 +13,11 @@ The date is currently in Year-Month-Day format but we plan to change that to you
 
 ## Installation
   1. Install python: https://www.python.org/downloads/
-  2. Install Pillow, pyproj, and GPSPhoto. Type the following in a command prompt, assuming your pip works:
+  2. Install Pillow, pyproj, exifread, and GPSPhoto. Type the following in a command prompt, assuming your pip works:
   ```
   pip install pillow
   pip install pyproj
+  pip install exifread
   pip install GPSPhoto
   ```
   You may need to alter the above for admin privileges. For instructions on installing python packages, see https://packaging.python.org/en/latest/tutorials/installing-packages/.
